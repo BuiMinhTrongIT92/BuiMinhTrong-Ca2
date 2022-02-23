@@ -10,6 +10,9 @@ public class PrimaryController {
     private void switchToSecondary() throws IOException {
         App.setRoot("secondary");
     }
-    public void N2(ActionEvent event){}
+    public void N2(ActionEvent event){
+        int a = 10;
+        int b =2;
+    }
     
 }
