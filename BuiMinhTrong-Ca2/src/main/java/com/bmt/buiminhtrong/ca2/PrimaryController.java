@@ -11,6 +11,8 @@ public class PrimaryController {
         App.setRoot("secondary");
     }
     public void N2(ActionEvent event){
+        int a =12;
+        int b = 14;
     }
     
 }
